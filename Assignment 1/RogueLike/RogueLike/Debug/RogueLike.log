@@ -1,0 +1,8 @@
+﻿  GameForm.cpp
+c:\users\carthur\desktop\programming 4 git\assignment 1\roguelike\roguelike\gameform.cpp(8): warning C4829: Possibly incorrect parameters to function main. Consider 'int main(Platform::Array<Platform::String^>^ argv)'
+  Gold.cpp
+  HealthPotion.cpp
+  ItemList.cpp
+  Items.cpp
+  Generating Code...
+  RogueLike.vcxproj -> C:\Users\Carthur\Desktop\Programming 4 Git\Assignment 1\RogueLike\Debug\RogueLike.exe

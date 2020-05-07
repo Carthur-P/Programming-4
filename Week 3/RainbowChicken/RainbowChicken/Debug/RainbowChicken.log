@@ -1,0 +1,6 @@
+﻿  GameForm.cpp
+c:\users\carthur\desktop\programming 4 git\checkpoint 3\rainbowchicken\rainbowchicken\gameform.h(38): warning C4677: 'pelletList': signature of non-private member contains assembly private type 'PelletList'
+  c:\users\carthur\desktop\programming 4 git\checkpoint 3\rainbowchicken\rainbowchicken\pelletlist.h(12): note: see declaration of 'PelletList'
+c:\users\carthur\desktop\programming 4 git\checkpoint 3\rainbowchicken\rainbowchicken\gameform.h(39): warning C4677: 'pellet': signature of non-private member contains assembly private type 'Pellet'
+  c:\users\carthur\desktop\programming 4 git\checkpoint 3\rainbowchicken\rainbowchicken\pellet.h(13): note: see declaration of 'Pellet'
+  RainbowChicken.vcxproj -> C:\Users\Carthur\Desktop\Programming 4 Git\Checkpoint 3\RainbowChicken\Debug\RainbowChicken.exe

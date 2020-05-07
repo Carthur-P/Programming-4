@@ -1,0 +1,6 @@
+﻿  GameForm.cpp
+c:\users\carthur\desktop\programming 4 git\checkpoint 5\movingknight\movingknight\gameform.h(26): warning C4677: 'cl': signature of non-private member contains assembly private type 'ChickenList'
+  c:\users\carthur\desktop\programming 4 git\checkpoint 5\movingknight\movingknight\chickenlist.h(12): note: see declaration of 'ChickenList'
+c:\users\carthur\desktop\programming 4 git\checkpoint 5\movingknight\movingknight\gameform.h(27): warning C4677: 'knight': signature of non-private member contains assembly private type 'Knight'
+  c:\users\carthur\desktop\programming 4 git\checkpoint 5\movingknight\movingknight\knight.h(11): note: see declaration of 'Knight'
+  MovingKnight.vcxproj -> C:\Users\Carthur\Desktop\Programming 4 Git\Checkpoint 5\MovingKnight\Debug\MovingKnight.exe

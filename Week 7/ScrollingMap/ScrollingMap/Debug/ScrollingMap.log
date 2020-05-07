@@ -1,0 +1,6 @@
+﻿  GameForm.cpp
+c:\users\carthur\desktop\programming 4 git\checkpoint 7\scrollingmap\scrollingmap\gameform.h(49): warning C4677: 'viewport': signature of non-private member contains assembly private type 'Viewport'
+  c:\users\carthur\desktop\programming 4 git\checkpoint 7\scrollingmap\scrollingmap\viewport.h(6): note: see declaration of 'Viewport'
+c:\users\carthur\desktop\programming 4 git\checkpoint 7\scrollingmap\scrollingmap\gameform.h(50): warning C4677: 'tileMap': signature of non-private member contains assembly private type 'TileMap'
+  c:\users\carthur\desktop\programming 4 git\checkpoint 7\scrollingmap\scrollingmap\tilemap.h(14): note: see declaration of 'TileMap'
+  ScrollingMap.vcxproj -> C:\Users\Carthur\Desktop\Programming 4 Git\Checkpoint 7\ScrollingMap\Debug\ScrollingMap.exe

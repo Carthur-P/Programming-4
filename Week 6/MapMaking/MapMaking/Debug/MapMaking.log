@@ -1,0 +1,6 @@
+﻿  GameForm.cpp
+c:\users\carthur\desktop\programming 4 git\checkpoint 6\mapmaking\mapmaking\gameform.h(24): warning C4677: 'tileList': signature of non-private member contains assembly private type 'TileList'
+  c:\users\carthur\desktop\programming 4 git\checkpoint 6\mapmaking\mapmaking\tilelist.h(12): note: see declaration of 'TileList'
+c:\users\carthur\desktop\programming 4 git\checkpoint 6\mapmaking\mapmaking\gameform.h(25): warning C4677: 'tileMap': signature of non-private member contains assembly private type 'TileMap'
+  c:\users\carthur\desktop\programming 4 git\checkpoint 6\mapmaking\mapmaking\tilemap.h(14): note: see declaration of 'TileMap'
+  MapMaking.vcxproj -> C:\Users\Carthur\Desktop\Programming 4 Git\Checkpoint 6\MapMaking\Debug\MapMaking.exe

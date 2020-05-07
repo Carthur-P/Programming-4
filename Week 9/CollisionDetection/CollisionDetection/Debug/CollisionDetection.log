@@ -1,0 +1,5 @@
+﻿  Chicken.cpp
+  GameForm.cpp
+c:\users\carthur\desktop\programming 4 git\checkpoint 8\collisiondetection\collisiondetection\gameform.cpp(8): warning C4829: Possibly incorrect parameters to function main. Consider 'int main(Platform::Array<Platform::String^>^ argv)'
+  Generating Code...
+  CollisionDetection.vcxproj -> C:\Users\Carthur\Desktop\Programming 4 Git\Checkpoint 8\CollisionDetection\Debug\CollisionDetection.exe

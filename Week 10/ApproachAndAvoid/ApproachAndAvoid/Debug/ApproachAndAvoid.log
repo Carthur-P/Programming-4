@@ -1,0 +1,23 @@
+﻿  ApproachBot.cpp
+  Blobbo.cpp
+c:\users\pongp1\desktop\pongp1\labs\approachandavoid\approachandavoid\blobbo.h(19): warning C4490: 'override': incorrect use of override specifier; 'Blobbo::move' does not match a base ref class method
+  c:\users\pongp1\desktop\pongp1\labs\approachandavoid\approachandavoid\blobbo.h(19): note: 'new' or 'override' are only allowed when a matching base method from a ref class exists
+c:\users\pongp1\desktop\pongp1\labs\approachandavoid\approachandavoid\blobbo.h(11): warning C4570: 'Blobbo': is not explicitly declared as abstract but has abstract functions
+  c:\users\pongp1\desktop\pongp1\labs\approachandavoid\approachandavoid\blobbo.h(11): note: 'void Sprite::move(System::Drawing::Point ^)': is abstract
+  c:\users\pongp1\desktop\pongp1\labs\approachandavoid\approachandavoid\sprite.h(33): note: see declaration of 'Sprite::move'
+  GameForm.cpp
+c:\users\pongp1\desktop\pongp1\labs\approachandavoid\approachandavoid\spritelist.h(16): error C2143: syntax error: missing ';' before '}'
+c:\users\pongp1\desktop\pongp1\labs\approachandavoid\approachandavoid\blobbo.h(19): warning C4490: 'override': incorrect use of override specifier; 'Blobbo::move' does not match a base ref class method
+  c:\users\pongp1\desktop\pongp1\labs\approachandavoid\approachandavoid\blobbo.h(19): note: 'new' or 'override' are only allowed when a matching base method from a ref class exists
+c:\users\pongp1\desktop\pongp1\labs\approachandavoid\approachandavoid\blobbo.h(11): warning C4570: 'Blobbo': is not explicitly declared as abstract but has abstract functions
+  c:\users\pongp1\desktop\pongp1\labs\approachandavoid\approachandavoid\blobbo.h(11): note: 'void Sprite::move(System::Drawing::Point ^)': is abstract
+  c:\users\pongp1\desktop\pongp1\labs\approachandavoid\approachandavoid\sprite.h(33): note: see declaration of 'Sprite::move'
+c:\users\pongp1\desktop\pongp1\labs\approachandavoid\approachandavoid\gameform.h(107): error C2259: 'Blobbo': cannot instantiate abstract class
+  c:\users\pongp1\desktop\pongp1\labs\approachandavoid\approachandavoid\gameform.h(107): note: due to following members:
+  c:\users\pongp1\desktop\pongp1\labs\approachandavoid\approachandavoid\gameform.h(107): note: 'void Sprite::move(System::Drawing::Point ^)': is abstract
+  c:\users\pongp1\desktop\pongp1\labs\approachandavoid\approachandavoid\sprite.h(33): note: see declaration of 'Sprite::move'
+c:\users\pongp1\desktop\pongp1\labs\approachandavoid\approachandavoid\gameform.cpp(8): warning C4829: Possibly incorrect parameters to function main. Consider 'int main(Platform::Array<Platform::String^>^ argv)'
+  Sprite.cpp
+  SpriteList.cpp
+c:\users\pongp1\desktop\pongp1\labs\approachandavoid\approachandavoid\spritelist.h(16): error C2143: syntax error: missing ';' before '}'
+  Generating Code...

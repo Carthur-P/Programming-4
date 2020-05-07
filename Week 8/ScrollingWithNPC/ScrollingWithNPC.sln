@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2042
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ScrollingWithNPC", "ScrollingWithNPC\ScrollingWithNPC.vcxproj", "{438E9389-BC08-4146-A647-3297999AF484}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{438E9389-BC08-4146-A647-3297999AF484}.Debug|x64.ActiveCfg = Debug|x64
+		{438E9389-BC08-4146-A647-3297999AF484}.Debug|x64.Build.0 = Debug|x64
+		{438E9389-BC08-4146-A647-3297999AF484}.Debug|x86.ActiveCfg = Debug|Win32
+		{438E9389-BC08-4146-A647-3297999AF484}.Debug|x86.Build.0 = Debug|Win32
+		{438E9389-BC08-4146-A647-3297999AF484}.Release|x64.ActiveCfg = Release|x64
+		{438E9389-BC08-4146-A647-3297999AF484}.Release|x64.Build.0 = Release|x64
+		{438E9389-BC08-4146-A647-3297999AF484}.Release|x86.ActiveCfg = Release|Win32
+		{438E9389-BC08-4146-A647-3297999AF484}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3E75595D-74A3-4427-9E94-DE0E8F24EEC8}
+	EndGlobalSection
+EndGlobal
